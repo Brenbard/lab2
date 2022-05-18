@@ -1,0 +1,15 @@
+.div_canvas{
+    text-align: center;
+    margin-top: 20px;
+}
+.canvas_filed{
+    height: 600px;
+}
+.menu_button{
+    display: flex;
+    justify-content: space-between;
+}
+.canvas_filed_button{
+    display: block;
+    height: 25px;
+}
